@@ -1,7 +1,7 @@
 ContentModule
 .directive('project', function() {
 	return {
-		templateUrl: '/carles-capellas-second/templates/project.html',
+		templateUrl: '/angularjs-personal-page/templates/project.html',
 		scope: {
 			project: '=source',
 			index: '=',
