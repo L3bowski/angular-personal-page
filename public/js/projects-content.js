@@ -1,7 +1,7 @@
 ContentModule
 .directive('project', function() {
 	return {
-		templateUrl: '/angularjs-personal-page/templates/project.html',
+		templateUrl: '/templates/project.html?namespace=angularjs-personal-page',
 		scope: {
 			project: '=source',
 			index: '=',

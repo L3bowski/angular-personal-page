@@ -1,10 +1,10 @@
 #projects {
-	background-image: url('../images/backgrounds/coding.jpg');
+	background-image: url('/images/backgrounds/coding.jpg?namespace=angularjs-personal-page');
 }
 
 @media(min-width: 768px) and (max-width: 992px) {
 	#projects { 
-		background-image: url('../images/backgrounds/coding-sm.jpg');
+		background-image: url('/images/backgrounds/coding-sm.jpg?namespace=angularjs-personal-page');
 	}
 }
 

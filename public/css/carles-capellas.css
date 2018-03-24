@@ -100,7 +100,6 @@ ul.nav.navbar-nav li.min-width i {
   color: #fff; }
 
 #curriculum {
-  /*background-image: url('../images/backgrounds/paper.jpg');*/
   color: white; }
 
 .item-description {
@@ -113,11 +112,11 @@ ul.nav.navbar-nav li.min-width i {
     padding-top: 0; } }
 
 #home {
-  background-image: url("../images/backgrounds/bcn.jpg"); }
+  background-image: url("/images/backgrounds/bcn.jpg?namespace=angularjs-personal-page"); }
 
 @media (min-width: 768px) and (max-width: 992px) {
   #home {
-    background-image: url("../images/backgrounds/bcn-sm.jpg"); } }
+    background-image: url("/images/backgrounds/bcn-sm.jpg?namespace=angularjs-personal-page"); } }
 
 .home-title {
   /*color: white;*/

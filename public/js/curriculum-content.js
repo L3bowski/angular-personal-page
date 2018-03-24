@@ -1,7 +1,7 @@
 ContentModule
 .directive('curriculumSection', function() {
 	return {
-		templateUrl: '/angularjs-personal-page/templates/curriculum-section.html',
+		templateUrl: '/templates/curriculum-section.html?namespace=angularjs-personal-page',
 		scope: {
 			section: '=',
 			imageUrl: '='
