@@ -18,22 +18,22 @@
   background-size: cover; }
 
 .navigation-icon > .icon.facebook {
-  background-image: url("../images/navbar/footer-facebook.png"); }
+  background-image: url("/images/navbar/footer-facebook.png?namespace=angularjs-personal-page"); }
 
 .navigation-icon > .icon.facebook:hover {
-  background-image: url("../images/navbar/footer-facebook-white.png"); }
+  background-image: url("/images/navbar/footer-facebook-white.png?namespace=angularjs-personal-page"); }
 
 .navigation-icon > .icon.linked-in {
-  background-image: url("../images/navbar/footer-linkedin.png"); }
+  background-image: url("/images/navbar/footer-linkedin.png?namespace=angularjs-personal-page"); }
 
 .navigation-icon > .icon.linked-in:hover {
-  background-image: url("../images/navbar/footer-linkedin-white.png"); }
+  background-image: url("/images/navbar/footer-linkedin-white.png?namespace=angularjs-personal-page"); }
 
 .navigation-icon > .icon.twitter {
-  background-image: url("../images/navbar/footer-twitter.png"); }
+  background-image: url("/images/navbar/footer-twitter.png?namespace=angularjs-personal-page"); }
 
 .navigation-icon > .icon.twitter:hover {
-  background-image: url("../images/navbar/footer-twitter-white.png"); }
+  background-image: url("/images/navbar/footer-twitter-white.png?namespace=angularjs-personal-page"); }
 
 /*Firefox fix for image responsive*/
 .img-responsive {
