@@ -124,12 +124,12 @@ ul.nav.navbar-nav li.min-width i {
 }
 
 #home { 
-	background-image: url('/images/backgrounds/bcn.jpg?namespace=angularjs-personal-page');
+	background-image: url('/images/backgrounds/bcn.jpg?$modena=angularjs-personal-page');
 }
 
 @media(min-width: 768px) and (max-width: 992px) {
 	#home { 
-		background-image: url('/images/backgrounds/bcn-sm.jpg?namespace=angularjs-personal-page');
+		background-image: url('/images/backgrounds/bcn-sm.jpg?$modena=angularjs-personal-page');
 	}
 }
 

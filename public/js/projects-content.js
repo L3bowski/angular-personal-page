@@ -1,7 +1,7 @@
 ContentModule
 .directive('project', function() {
 	return {
-		templateUrl: '/templates/project.html?namespace=angularjs-personal-page',
+		templateUrl: '/templates/project.html?$modena=angularjs-personal-page',
 		scope: {
 			project: '=source',
 			index: '=',
