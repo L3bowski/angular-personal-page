@@ -1,0 +1,14 @@
+{
+    "name": "angularjs-personal-page",
+    "version": "1.0.0",
+    "description": "Personal page built with Angular 1.4",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "author": "Carles Capellas <capellas.carles@gmail.com>",
+    "license": "MTI",
+    "dependencies": {
+        "express": "^4.17.1"
+    }
+}
