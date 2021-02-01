@@ -21,27 +21,27 @@
 }
 
 .navigation-icon > .icon.facebook {
-	background-image: url('/images/navbar/footer-facebook.png?$modena=angularjs-personal-page');
+	background-image: url('/angularjs-personal-page/images/navbar/footer-facebook.png');
 }
 
 .navigation-icon > .icon.facebook:hover {
-	background-image: url('/images/navbar/footer-facebook-white.png?$modena=angularjs-personal-page');
+	background-image: url('/angularjs-personal-page/images/navbar/footer-facebook-white.png');
 }
 
 .navigation-icon > .icon.linked-in {
-	background-image: url('/images/navbar/footer-linkedin.png?$modena=angularjs-personal-page');
+	background-image: url('/angularjs-personal-page/images/navbar/footer-linkedin.png');
 }
 
 .navigation-icon > .icon.linked-in:hover {
-	background-image: url('/images/navbar/footer-linkedin-white.png?$modena=angularjs-personal-page');
+	background-image: url('/angularjs-personal-page/images/navbar/footer-linkedin-white.png');
 }
 
 .navigation-icon > .icon.twitter {
-	background-image: url('/images/navbar/footer-twitter.png?$modena=angularjs-personal-page');
+	background-image: url('/angularjs-personal-page/images/navbar/footer-twitter.png');
 }
 
 .navigation-icon > .icon.twitter:hover {
-	background-image: url('/images/navbar/footer-twitter-white.png?$modena=angularjs-personal-page');
+	background-image: url('/angularjs-personal-page/images/navbar/footer-twitter-white.png');
 }
 
 /*Firefox fix for image responsive*/

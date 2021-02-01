@@ -1,10 +1,10 @@
 #projects {
-	background-image: url('/images/backgrounds/coding.jpg?$modena=angularjs-personal-page');
+	background-image: url('/angularjs-personal-page/images/backgrounds/coding.jpg');
 }
 
 @media(min-width: 768px) and (max-width: 992px) {
 	#projects { 
-		background-image: url('/images/backgrounds/coding-sm.jpg?$modena=angularjs-personal-page');
+		background-image: url('/angularjs-personal-page/images/backgrounds/coding-sm.jpg');
 	}
 }
 

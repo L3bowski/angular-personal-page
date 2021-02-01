@@ -1,7 +1,7 @@
 ContentModule
 .directive('curriculumSection', function() {
 	return {
-		templateUrl: '/templates/curriculum-section.html?$modena=angularjs-personal-page',
+		templateUrl: '/angularjs-personal-page/templates/curriculum-section.html',
 		scope: {
 			section: '=',
 			imageUrl: '='
